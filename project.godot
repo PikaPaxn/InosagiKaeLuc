@@ -21,7 +21,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Inosagi KaeLuc"
-config/icon="res://icon.png"
+config/icon="res://sprites/icon.png"
 
 [editor]
 
